@@ -7,4 +7,4 @@ For the Project, the only components needed to be imported should be the followi
 * Slide Switch
 * Speaker
 
-These can be found in the BOM or the Zip Files attached
+These can be found in the BOM or the Zip Files attached.
